@@ -1,0 +1,9 @@
+DROP TABLE Company;
+DROP TABLE Source;
+
+DROP TABLE Student;
+DROP TABLE CareerEvent;
+DROP TABLE SearchJ;
+DROP TABLE SearchE;
+DROP TABLE Job;
+
